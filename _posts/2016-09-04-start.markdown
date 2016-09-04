@@ -12,14 +12,16 @@ tags:
 
 > “Yeah .We start August 1”
 
+---
 
 ## 前言
 
 Mz 的 Blog 今天正式开通了。
 作为一个程序猿，记录爱情的形式当然就要很程序猿啦。左思右想，有一个属于自己的Blog来记录我们的爱情也挺漫浪滴。在知乎上找到这位Hux大神的[Blog](http://huxpro.github.io)，fork一个。
 
-##We
+---
 
+##We
 
 ![img](/img/we.jpg)
 
