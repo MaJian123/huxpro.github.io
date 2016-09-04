@@ -1,22 +1,6 @@
 ---
 layout:     post
 title:      "Hello 者薇薇"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       9/4/2016 5:19:39 PM 
-author:     "MaJ"
-header-img: "img/post-bg-2015.jpg"
-catalog: true
-tags:
-    - 我们
----
-
-> “Yeah It's on. ”
-
-
-## 前言
----
-layout:     post
-title:      "Hello 者薇薇"
 subtitle:   " \"Hello World, Hello 者薇薇\""
 date:       9/4/2016 5:19:39 PM 
 author:     "MaJ"
